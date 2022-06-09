@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jiezi
+- 👀 I’m interested in machine learning, Chinese caligraphy and political philosophy.
+- 🌱 I’m currently learning deep learning and causual inference.
+- 💞️ I’m looking to collaborate on data competition and knowledge sharing.
+- 📫 You can reach me through jiezi2004@gmail.com
